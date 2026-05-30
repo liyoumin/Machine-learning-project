@@ -300,7 +300,7 @@ If you use this repository or refer to the project, please cite:
   author = {Li, Youmin},
   title = {Consumer Perception Impacts on Olive Oil Choice: A Case Study Using Machine Learning Approach},
   year = {2026},
-  note = {Preprint},
+  note = {Agricultural & Applied Economics Association (AAEA) Annual Meeting},
   url = {https://liyoumin.github.io/personalweb/publication/preprint/}
 }
 ```
