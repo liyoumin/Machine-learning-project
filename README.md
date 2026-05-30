@@ -161,29 +161,7 @@ Because the original script uses an absolute local path, users reproducing the a
 The analysis is written in **R**. The main packages include:
 
 ```r
-tidyverse
-readxl
-janitor
-stringr
-psych
-EFAtools
-GPArotation
-cluster
-factoextra
-NbClust
-fpc
-seminr
-tidymodels
-vip
-glmnet
-ranger
-xgboost
-mgcv
-pROC
-ggrepel
-pls
-leaps
-ISLR2
+tidyverse; readxl; janitor; stringr; psych; EFAtools; GPArotation; cluster; factoextra; NbClust; fpc; seminr; tidymodels; vip; glmnet; ranger; xgboost; mgcv; pROC; ggrepel; pls; leaps; ISLR2
 ```
 
 You can install missing packages using:
